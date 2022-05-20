@@ -64,12 +64,12 @@ lidar:
       min_distance: 0.2            
       max_distance: 200           
       use_lidar_clock: false       
-	  x: 1
-	  y: 0
-	  z: 2.5
-	  roll: 0.1
-	  pitch: 0.2
-	  yaw: 1.57
+      x: 1
+      y: 0
+      z: 2.5
+      roll: 0.1
+      pitch: 0.2
+      yaw: 1.57
 ```
 
 ## 5 运行
